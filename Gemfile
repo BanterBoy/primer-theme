@@ -2,4 +2,10 @@
 
 source 'https://rubygems.org'
 
-gemspec
+gem 'jekyll'
+gem 'jekyll-github-metadata'
+gem 'jekyll-seo-tag'
+gem 'html-proofer'
+gem 'rubocop'
+gem 'w3c_validators'
+gem 'jekyll-theme-primer'
